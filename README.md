@@ -120,7 +120,7 @@
           <a href="https://ttasin2x-droid.github.io/Tanvir-Tasin-Portfolio-/" target="_blank">
             <img src="https://img.shields.io/badge/Live%20Demo-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
           </a>
-          <a href="https://github.com/ttasin2x-droid/Tanvir-Tasin-Portfolio-" target="_blank">
+          <a href="https://github.com/ttasin2x/Tanvir-Tasin-Portfolio-" target="_blank">
             <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
           </a>
           <p><strong>Tech:</strong> HTML, CSS, JavaScript, Bootstrap</p>
