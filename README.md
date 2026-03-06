@@ -36,13 +36,12 @@
 - 🤝 Active in **Digital Scouting** (JOTA-JOTI)
 
 ### 🏆 Achievements
-- ⚜️ **Rover Scout** - Barishal Open Rover Scout Group
+- ⚜️ **Rover Scout** - Rani BilashMoni Rover Scout Group
 - 🎨 **Graphic Designer** - Custom Vector Art & Branding
-- 🌐 **Web Developer** - Modern Responsive Websites
-- 📱 **App Developer** - Cross-platform Mobile Solutions
+- 🌐 **Web Developer** - Modern Responsive Website
 
 ### 📍 Location
-**Barguna, Barishal, Bangladesh** 🇧🇩
+**Barishal, Bangladesh** 🇧🇩
 
     </td>
   </tr>
